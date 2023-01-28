@@ -8,7 +8,7 @@ To use the Switch Latch, a momentary switch is plugged into the 3.5 mm input jac
 device is then plugged into the 3.5 mm output jack. The power switch must be enabled to use the 
 device. However, the device will turn itself off if there is no plug inserted into the input jack.
 
-<img src="Photos/OpenAT_Switch_Latch.jpg" width="500" alt="Picture of OpenAT-Switch-Latch.">
+<img src="Photos/OpenAT_Switch_Latch.JPG" width="500" alt="Picture of OpenAT-Switch-Latch.">
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/openat-switch-latch/)
