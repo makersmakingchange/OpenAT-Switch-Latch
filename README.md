@@ -87,7 +87,7 @@ Contributors:
 - Milad Hajihassan, Makers Making Change
 
 ## License
-Everything needed or used to design, make, test, or prepare the OpenAT-Switch-Latch is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
+Everything needed or used to design, make, test, or prepare the OpenAT-Switch-Latch is licensed under the CERN 2.0 Weakly-reciprocal license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-W) . 
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the OpenAT-Switch-Latch are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
