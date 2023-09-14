@@ -12,8 +12,6 @@ device. However, the device will turn itself off if there is no plug inserted in
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/openat-switch-latch/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/openat-switch-latch/)
-
 
 ## How to Obtain a OpenAT-Switch-Latch
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
