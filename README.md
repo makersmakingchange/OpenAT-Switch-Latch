@@ -61,7 +61,7 @@ Reference the [Assembly Guide](/Documentation/OpenAT_Switch_Latch_Assembly_Guide
 | Maker Checklist      | 1.0     | [OpenAT_Switch_Latch_Maker_Checklist](/Documentation/OpenAT_Switch_Latch_Maker_Checklist.pdf)     |
 | Bill of Materials    | 1.0     | [OpenAT_Switch_Latch_Bill_of_Materials](/Documentation/OpenAT_Switch_Latch_BOM.csv)     |
 | 3D Printing Guide    | 1.0     | [OpenAT_Switch_Latch_3D_Printing_Guide](/Documentation/OpenAT_Switch_Latch_3D_Printing_Guide.pdf)     |
-| Assembly Guide       | 1.0     | [OpenAT_Switch_Latch_Assembly_Guide](/Documentation/OpenAT_Switch_Latch_Assembly_Guide.pdf)     |
+| Assembly Guide       | 1.1     | [OpenAT_Switch_Latch_Assembly_Guide](/Documentation/OpenAT_Switch_Latch_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [OpenAT_Switch_Latch_User_Guide](/Documentation/OpenAT_Switch_Latch_User_Guide.pdf)    |
 
 ### Design Files
