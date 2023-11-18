@@ -1,0 +1,17 @@
+Version 1.01 | 2023-Nov-17
+	- Enclosure_Top
+		- Fixed ordering of On-Off
+		- Added small chamfer to bosses and screw holes
+	- Cleaned up repository
+
+Version 1.0 | 2023-Feb-10
+	- Initial release
+		- CD74HC73E JK Flip Flop IC
+		- 3D printed enclosure with Battery holder.
+		- 3D Printed LED spacer added to simplify the assembly process
+		- Added switch equipped jacks, allowing device to be turned on via plugging in.
+
+
+
+
+
