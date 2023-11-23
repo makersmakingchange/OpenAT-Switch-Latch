@@ -1,3 +1,8 @@
+
+Version 1.1 | 2023-Nov-23
+	- Refactored Assembly Guide for better order (LEDs after shorter components)
+	- Add 6th screw to BOM (1 for PCB, 4 for Enclosure, 1 for Battery Cover)
+
 Version 1.01 | 2023-Nov-17
 	- Enclosure_Top
 		- Fixed ordering of On-Off

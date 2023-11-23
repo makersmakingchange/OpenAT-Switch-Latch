@@ -10,7 +10,7 @@ To use the device it must be powered on by sliding the Power Switch towards the 
 
 <img src="Photos/OpenAT_Switch_Latch.jpg" width="500" alt="An OpenAT Switch Latch pictured with a person pressing an input switch.">
 
-Last updated: 2023-Nov-17
+Last updated: 2023-Nov-23
 
 ## More info at
 - [Makers Making Change Library Page](https://www.makersmakingchange.com/s/product/switch-latch/01tJR00000095zlYAA)
@@ -59,7 +59,7 @@ Reference the [Assembly Guide](/Documentation/OpenAT_Switch_Latch_Assembly_Guide
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [OpenAT_Switch_Latch_Design_Rationale](/Documentation/OpenAT_Switch_Latch_Design_Rationale.pdf)     |
 | Maker Checklist      | 1.0     | [OpenAT_Switch_Latch_Maker_Checklist](/Documentation/OpenAT_Switch_Latch_Maker_Checklist.pdf)     |
-| Bill of Materials    | 1.0     | [OpenAT_Switch_Latch_Bill_of_Materials](/Documentation/OpenAT_Switch_Latch_BOM.csv)     |
+| Bill of Materials    | 1.02    | [OpenAT_Switch_Latch_Bill_of_Materials](/Documentation/OpenAT_Switch_Latch_BOM.csv)     |
 | 3D Printing Guide    | 1.0     | [OpenAT_Switch_Latch_3D_Printing_Guide](/Documentation/OpenAT_Switch_Latch_3D_Printing_Guide.pdf)     |
 | Assembly Guide       | 1.1     | [OpenAT_Switch_Latch_Assembly_Guide](/Documentation/OpenAT_Switch_Latch_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [OpenAT_Switch_Latch_User_Guide](/Documentation/OpenAT_Switch_Latch_User_Guide.pdf)    |
