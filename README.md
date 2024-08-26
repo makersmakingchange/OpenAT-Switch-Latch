@@ -18,7 +18,7 @@ To setup the OpenAT Switch Latch, a momentary switch is plugged into the 3.5 mm 
 
 To use the device it must be powered on by sliding the Power Switch towards the left to the On position. When the assistive switch is activated, the LED indicator light will turn on and remain on, and the output device will be activated. When the assistive switch is activated again, the LED indicitor light will turn off and remain off, and the output device will be deactivated.
 
-<img src="Photos/OpenAT_Switch_Latch.jpg" width="500" alt="An OpenAT Switch Latch pictured with a person pressing an input switch.">
+<img src="Photos/OpenAT_Switch_Latch.JPG" width="500" alt="An OpenAT Switch Latch pictured with a person pressing an input switch.">
 
 Last updated: 2024-August-26
 
