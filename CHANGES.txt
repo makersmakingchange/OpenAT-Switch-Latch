@@ -1,3 +1,9 @@
+OpenAT Switch Latch Changelog
+
+Version 1.1.2 | 2024-Oct-10
+ - Added LED image to improve chance that LED is installed with correct polarity and with LED spacer
+ - Re-arranged assembly steps so battery is installed into battery holder first to aid assembly
+ - Added initial troubleshooting section to assembly guide.
 
 Version 1.1 | 2023-Nov-23
 	- Refactored Assembly Guide for better order (LEDs after shorter components)
