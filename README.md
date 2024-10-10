@@ -20,7 +20,7 @@ To use the device it must be powered on by sliding the Power Switch towards the 
 
 <img src="Photos/OpenAT_Switch_Latch.JPG" width="500" alt="An OpenAT Switch Latch pictured with a person pressing an input switch.">
 
-Last updated: 2024-August-26
+Last updated: 2024-October-10
 
 ## More info at
 - [Makers Making Change Library Page](https://www.makersmakingchange.com/s/product/switch-latch/01tJR00000095zlYAA)
