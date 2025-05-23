@@ -1,5 +1,9 @@
 OpenAT Switch Latch Changelog
 
+Version 1.1.3 | 2025-May-22
+ - Add unsupported hole features to battery cover screw hole to improve printability / avoid support
+
+
 Version 1.1.2 | 2024-Oct-10
  - Added LED image to improve chance that LED is installed with correct polarity and with LED spacer
  - Re-arranged assembly steps so battery is installed into battery holder first to aid assembly
