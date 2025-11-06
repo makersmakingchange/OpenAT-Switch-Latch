@@ -12,6 +12,8 @@ The OpenAT Switch Latch is open assistive technology (OpenAT). Under the terms o
 
 The overall cost of materials for a single build is approximately $67 CAD. The cost of materials when built in quantity is $38 CAD.
 
+2025-Nov-06: One of the electronic components in this design has been discontinued (MOSFET IRLD014PBF) and is no longer available on DigiKey or Mouser. In the short term, there are some alternative sources (e.g., https://www.amazon.ca/10PCS-IRLD110-DIP4-IRLD110PBF-DIP-4/dp/B0DSSJTPH8). In the longer term, we are working on updating the design with an alternative component.  
+
 
 ## Usage
 To setup the OpenAT Switch Latch, a momentary switch is plugged into the 3.5 mm jack marked 'Input' and the device to be controlled is plugged into the 3.5 mm jack marked 'Output'.
