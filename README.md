@@ -13,7 +13,7 @@ The OpenAT Switch Latch is comprised of off-the-shelf electronics, a custom prin
 
 The OpenAT Switch Latch is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-The overall cost of materials is about \$80 to build one Switch latch, or a unit cost of around \$53 if building multiple (plus component shipping).
+The overall cost of materials is about \$72 to build one Switch latch, or a unit cost of around \$45 if building multiple (including component shipping).
 
 <img src="Photos/OpenAT_Switch_Latch.JPG" width="500" alt="An OpenAT Switch Latch pictured with a person pressing an input switch.">
 
