@@ -1,57 +1,57 @@
-ï»¿OpenAT Switch Latch,,,,,,,,,,,,,
-Version:, V1.2.1,,,,,,,,,,,,
-Last Updated:,2024-Aug-26,,,,,,,,,,,,
-,,,,,,,,Total filament (g),,Unit Cost,Total Estimated Cost,Build Cost,
-,,,,,,,,27.3,, $36.91 , $62.86 ,,
-ID,Commercial Parts,,,,,,,,, $30.41 , $33.16 ,,
-,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
-10,U1,CD74HC73E JK Flip Flop,,,,1,1,1, $0.94 , $0.94 , $0.94 ,,https://www.digikey.ca/en/products/detail/texas-instruments/CD74HC73E/1507453
-9,"Q1,Q2",IRLD014PBF  60V 1.2A  MOSFET ,,,,2,1,2, $2.25 , $4.50 , $4.50 ,,https://www.digikey.ca/en/products/detail/vishay-siliconix/IRLD014PBF/812481
-8,"SW1,SW2",SJ-3566AN 3.5mm Jack Stereo ,,,,2,1,2, $2.80 , $5.60 , $5.60 ,,https://www.digikey.ca/en/products/detail/cui-devices/SJ-3566AN/305112 
-2,R1,470 kOhms 1/8W Through Hole Resistor ,,,,1,1,1, $0.15 , $0.15 , $0.15 ,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF18JT470K/1741719
-3,R2,22 kOhms 1/8W Through Hole Resistor ,,,,1,1,1, $0.15 , $0.15 , $0.15 ,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF18JT22K0/1741643
-4,R3,10 kOhms 1/8W Through Hole Resistor ,,,,1,1,1, $0.15 , $0.15 , $0.15 ,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF18JT10K0/1741566
-5,C1,0.1 ÂµF Â±10% Capacitor,,,,1,1,1, $0.46 , $0.46 , $0.46 ,,https://www.digikey.ca/en/products/detail/kemet/C315C104M5U5TA/817927
-6,C2,1 ÂµF Â±10% Capacitor,,,,1,1,1, $1.15 , $1.15 , $1.15 ,,https://www.digikey.ca/en/products/detail/kemet/C315C105K3R5TA/3726118
-13,BAT1,20Â mm Coin Cell Battery Holder,,,,1,1,1, $1.69 , $1.69 , $1.69 ,,https://www.digikey.ca/en/products/detail/mpd-memory-protection-devices/BS-7/389447
-11,D1,5Â mm Green LED,,,,1,1,1, $0.46 , $0.46 , $0.46 ,,https://www.digikey.ca/en/products/detail/creeled-inc/C5SMF-GJE-CX14Q7T2/4794039
-7,S1,Slide Switch,,,,1,1,1, $0.75 , $0.75 , $0.75 ,,https://www.digikey.ca/en/products/detail/c-k/OS102011MA1QS1/1981431 
-19,,"#4-3/8"" Pan Head Screw",,,,6,1,6, $0.61 , $3.66 , $3.66 ,,https://www.digikey.ca/en/products/detail/serpac/6005/307599
-14,,"Coin Cell Battery, CR2032",,,,1,2,1, $5.50 , $2.75 , $5.50 ,,
-,,Digikey Shipping,,,,1,1,1, $8.00 , $8.00 , $8.00 ,,
-,Custom PCB,,,,,,,,, $5.80 , $29.00 ,,
-,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
-1,PCB1,Custom PCB,,,,1,5,1, $4.00 , $0.80 , $4.00 ,,
-,Shipping,Economical Global Direct Line,,,,1,5,1, $25.00 , $5.00 , $25.00 ,,
-,,,,,,,,,,,,,
-,3D Printed Parts,,,,,,,27.3,, $0.70 , $0.70 ,,
-,Part,Description,Filament Type,Filament,Color,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
-15,,Enclosure Top,PLA,,Any,1,11.4,11.4, $25.00 , $0.29 , $0.29 ,,
-17,,Enclosure Bottom,PLA,,Any,1,11.4,11.4, $26.00 , $0.30 , $0.30 ,,
-18,,Battery Cover,PLA,,Any,1,3.3,3.3, $27.00 , $0.09 , $0.09 ,,
-16,,Switch Slide,PLA,,Any,1,0.7,0.7, $28.00 , $0.02 , $0.02 ,,
-12,,LED Spacer,PLA,,Any,1,0.5,0.5, $29.00 , $0.01 , $0.01 ,,
-,,,,,,,,,,,,,
-,Tools,,,,,,,,,,,,
-,Tool,Description,,Manufacturer,Supplier,,,,,,,,Link
-,Screwdriver,Medium Phillips,,,,,,,,,,,
-,Needle nose pliers,,,,,,,,,,,,
-,Side Cutters,,,,,,,,,,,,
-,Soldering Iron,,,,,,,,,,,,
-,Solder,60/40 rosin core solder for electronics,,,,,,,,,,,
-,Multimeter,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,Alternatives,,,,,,,,,,,,
-,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+Device: OpenAT Switch Latch,,,,,,,,,,,,,,
+Version:,V2.1.0,,,,,,,,,,,,,
+Last Updated:,2026-Nov-12,,,,,,,,,,,,,
+,,,,,,,,,Total filament (g),,Unit Cost,Total Estimated Cost,,
+,,,,,,,,,30.5,, $44.06 , $71.24 ,,
+ID,Commercial Parts,,,,,,,,,, $37.50 , $41.48 ,,
+,Part,Description,MPN,Manufacturer,Supplier,Supplier PN,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+A10,U1,CD74HC73E JK Flip Flop,CD74HC73E,Texas Instruments,DigiKey,296-26013-5-ND,1,1,1, $1.18 , $1.18 , $1.18 ,,https://www.digikey.ca/en/products/detail/texas-instruments/CD74HC73E/1507453
+A11,J1,IC Socket,A 14-LC-TT,Assmann WSW Components,Digikey,AE9989-ND,1,1,1, $0.56 , $0.56 , $0.56 ,,https://www.digikey.ca/en/products/detail/assmann-wsw-components/A-14-LC-TT/821743
+A09,"Q1, Q2",MOSFET N-CH 30V 30A TO252-3,IPD135N03LGATMA1,Infineon Technologies,DigiKey,IPD135N03LGATMA1CT-ND,2,1,2, $1.16 , $2.32 , $2.32 ,,https://www.digikey.ca/en/products/detail/infineon-technologies/IPD135N03LGATMA1/3535998
+A08,"SW1,SW2",SJ-3566AN 3.5mm Jack Stereo ,SJ-3566AN,Same Sky (Formerly CUI Devices),DigiKey,CP-SJ-3566AN-ND,2,1,2, $1.99 , $3.98 , $3.98 ,,https://www.digikey.ca/en/products/detail/cui-devices/SJ-3566AN/305112 
+A03,R2,22 kOhms 1/4W Through Hole Resistor ,CF14JT22K0,Stackpole Electronics Inc,DigiKey,CF14JT22K0CT-ND,1,1,1, $0.10 , $0.10 , $0.10 ,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT22K0/1741350
+A02,R1,470 kOhms 1/4W Through Hole Resistor ,CF14JT470K,Stackpole Electronics Inc,DigiKey,CF14JT470KCT-ND,1,1,1, $0.10 , $0.10 , $0.10 ,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF14JT470K/1741442
+A04,R3,10 kOhms 1/4W Through Hole Resistor ,CF18JT10K0,Stackpole Electronics Inc,DigiKey,CF18JT10K0CT-ND,1,1,1, $0.10 , $0.10 , $0.10 ,,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/CF18JT10K0/1741566
+A06,C2,0.1 µF ±10% Capacitor,C315C104M5U5TA,KEMET,DigiKey,399-4151-ND,1,1,1, $0.58 , $0.58 , $0.58 ,,https://www.digikey.ca/en/products/detail/kemet/C315C104M5U5TA/817927
+A05,C1,1 µF ±10% Capacitor,C315C105K3R5TA,KEMET,DigiKey,399-9714-ND,1,1,1, $1.54 , $1.54 , $1.54 ,,https://www.digikey.ca/en/products/detail/kemet/C315C105K3R5TA/3726118
+A14,BAT1,20 mm Coin Cell Battery Holder,BS-7,MPD (Memory Protection Devices),DigiKey,BS-7-ND,1,1,1, $1.08 , $1.08 , $1.08 ,,https://www.digikey.ca/en/products/detail/mpd-memory-protection-devices/BS-7/389447
+A12,D1,5 mm Green LED,C5SMF-GJE-CX14Q7T2,Cree LED,DigiKey,C5SMF-GJE-CX14Q7T2CT-ND,1,1,1, $0.36 , $0.36 , $0.36 ,,https://www.digikey.ca/en/products/detail/creeled-inc/C5SMF-GJE-CX14Q7T2/4794039
+A07,S1,Slide Switch,OS102011MA1QS1,C&K,DigiKey,CKN9560-ND,1,1,1, $0.74 , $0.74 , $0.74 ,,https://www.digikey.ca/en/products/detail/c-k/OS102011MA1QS1/1981431 
+A20,,"#4-3/8"" Pan Head Screw",6005,Serpac,DigiKey,SR6005-ND,6,1,6, $0.44 , $2.64 , $2.64 ,,https://www.digikey.ca/en/products/detail/serpac/6005/307599
+A15,,"Coin Cell Battery, CR2032",,Energizer,Amazon,,1,2,1, $7.96 , $3.98 , $7.96 ,,https://a.co/d/0cF3xd0U
+A21,,"3.5 mm Mono Cable, 3 ft, Male to Male",Cab-AUD-200-03 ,Prime Cables,Prime Cables,Cab-AUD-200-03 ,1,1,1, $2.29 , $2.29 , $2.29 ,,https://www.primecables.ca/p-370665-cab-aud-200-all-35mm-18-inch-mono-ts-male-to-male-28awg-ft4-cable-black#sku383505 
+N/A,,Digikey Shipping (if spending less than $100),,,,,1,1,1, $8.00 , $8.00 , $8.00 ,,
+N/A,,Prime Cables Shipping (if spending less than $49),,,,,1,1,1, $7.95 , $7.95 , $7.95 ,,
+,3D Printed Parts,,,,,,,,32.5,, $0.76 , $0.76 ,,
+,Part,Description,Filament Type,Filament,Color,,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
+A16,,Enclosure Top,PLA,,Any,,1,11.8,11.8, $25.00 , $0.30 , $0.30 ,,
+A17,,Enclosure Bottom,PLA,,Any,,1,14.4,14.4, $25.00 , $0.36 , $0.36 ,,
+A19,,Battery Cover,PLA,,Any,,1,3.3,3.3, $25.00 , $0.08 , $0.08 ,,
+A18,,Switch Slide,PLA,,Any,,1,0.7,0.7, $25.00 , $0.02 , $0.02 ,,
+A13,,LED Spacer,PLA,,Any,,1,0.3,0.3, $25.00 , $0.01 , $0.01 ,,
+,Custom PCB,,,,,,,,,, $5.80 , $29.00 ,,
+,Part,Description,,Manufacturer,Supplier,,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+A01,PCB1,Main PCB,,,,,1,5,1, $4.00 , $0.80 , $4.00 ,,
+,,Shipping,,,,,1,5,1, $25.00 , $5.00 , $25.00 ,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Tools,,,,,,,,,,,,,
+,Tool,Description,,Manufacturer,Supplier,,,,,,,,,Link
+T01,Screwdriver,Medium Phillips,,,,,,,,,,,,
+T02,Needle nose pliers,,,,,,,,,,,,,
+T03,Flush Cutters,,,,,,,,,,,,,
+T04,Soldering Iron,,,,,,,,,,,,,
+T05,Assistive Switch with 3.5 mm cable ,For testing input,,,,,,,,,,,,
+T06,Switch Adapted Toy,For testing output,,,,,,,,,,,,
+T07,Switch Tester,For testing output,,,,,,,,,,,,https://github.com/makersmakingchange/Simple-Switch-Tester
+T08,Multimeter,For testing,,,,,,,,,,,,
+S01,Solder,60/40 rosin core solder for electronics,,,,,,,,,,,,
+S02,"Optional: Tape / reusable putty-like adhesive (e.g., BLUE TACK) ",To help position components while soldering,,,,,,,,,,,,
+,Alternatives,,,,,,,,,,,,,
+,Part,Description,,Manufacturer,Supplier,,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+,,"3.5 mm Mono Cable, 3 ft, Male to Male",,Seadream,Amazon,,1,2,1, $12.99 , $6.50 , $12.99 ,,https://www.amazon.ca/Seadream-2Pack-3-5mm-Mono-Cable/dp/B0DMVVD6GF/ref=sr_1_30 
+,,"#4-3/8"" Pan Head Screw",,DTGN,Amazon,,6,100,1, $10.49 , $0.63 , $10.49 ,,https://www.amazon.ca/DTGN-Phillips-Head-Self-tapping-Screw/dp/B0CSRXZKQV/ref=sr_1_10 
+,,"Coin Cell Battery, CR2032",,,Amazon,,1,2,1,11.49, $5.75 , $11.49 ,,https://a.co/d/0ipb4KoN
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

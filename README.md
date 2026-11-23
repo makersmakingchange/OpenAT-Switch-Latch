@@ -2,6 +2,9 @@
 
 <!--- TITLE --->
 # OpenAT Switch Latch 
+Last updated: 2026-October-28
+
+## Overview
 The OpenAT Switch Latch is a switch adapter that enables a standard momentary assistive switch to be used as a toggle switch or latch. Activating and releasing the input switch will turn on and hold on the output. Activating and releasing the input switch again will turn the connected output device off. The device requires one CR2032 coin cell battery for operation. 
 
 This device was developed as several assistive switch users requested the ability to control lights and other devices in a semi-permanent manner utilizing their preferred momentary assistive switches.
@@ -10,69 +13,69 @@ The OpenAT Switch Latch is comprised of off-the-shelf electronics, a custom prin
 
 The OpenAT Switch Latch is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
-The overall cost of materials for a single build is approximately $67 CAD. The cost of materials when built in quantity is $38 CAD.
+The overall cost of materials is about \$80 to build one Switch latch, or a unit cost of around \$53 if building multiple (plus component shipping).
 
+<img src="Photos/OpenAT_Switch_Latch.JPG" width="500" alt="An OpenAT Switch Latch pictured with a person pressing an input switch.">
 
 ## Usage
 To setup the OpenAT Switch Latch, a momentary switch is plugged into the 3.5 mm jack marked 'Input' and the device to be controlled is plugged into the 3.5 mm jack marked 'Output'.
 
 To use the device it must be powered on by sliding the Power Switch towards the left to the On position. When the assistive switch is activated, the LED indicator light will turn on and remain on, and the output device will be activated. When the assistive switch is activated again, the LED indicitor light will turn off and remain off, and the output device will be deactivated.
 
-<img src="Photos/OpenAT_Switch_Latch.JPG" width="500" alt="An OpenAT Switch Latch pictured with a person pressing an input switch.">
-
-Last updated: 2024-October-10
 
 ## More info at
 - [Makers Making Change Library Page](https://www.makersmakingchange.com/s/product/switch-latch/01tJR00000095zlYAA)
 
 
-## How to Obtain a OpenAT-Switch-Latch
-### 1. Do it Yourself (DIY) or Do it Together (DIT)
+## How to Obtain the Device
+### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the OpenAT-Switch-Latch are contained within this repository. Refer to the Maker Checklist below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the device are contained within this repository. Refer to the Maker Guide below.
 
 ### 2. Request a build of this device
 
-If you would like to obtain a OpenAT Switch Latch, you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/switch-latch/01tJR00000095zlYAA). The requestor is responsible for the cost of materials and any shipping.
+You may also submit a build request through the [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/product/01tJR00000E3nP7) to have a volunteer maker build the device. As the requestor, you are responsible for reimbursing the maker for the cost of materials and any shipping.
 
-### 3. How to build this device for someone else
+### 3. Build this device for someone else
 
-If you have the skills and equipment to build this device, and would like to donate your time to create the switch for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
+If you have the skills and equipment to build this device, and would like to donate your time to create the device for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
 
 
-## Getting Started
+## Build Instructions
 
-### 1. Read the Makers Checklist
+### 1. Read the Makers Guide
 
-The [Makers Checklist](/Documentation/OpenAT_Switch_Latch_Maker_Checklist.pdf) provides an overview of the steps required to build this device.
+The [Maker Guide](/Documentation/OpenAT_Switch_Latch_Maker_Guide.pdf) provides an overview of the steps required to build this device.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/OpenAT_Switch_Latch_BOM.csv) lists all of the parts and components required to build the OpenAT-Switch-Latch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The Bill of Materials [csv](/Documentation/OpenAT_Switch_Latch_BOM.csv), [xlsx](/Documentation/Working_Documents/OpenAT_Switch_Latch_BOM.csv.xlsx) lists all of the parts and components required to build the device.
 
 ### 3. Order the PCBs
 
-The [Gerber_Files](/Build_Files/PCB_Build_Files/Gerber_Files) includes the PCB build information which can be submitted to PCB fabrication service to create the custom PCB. Please refer to MMC-PCB for more information on custom PCB fabrication.
+The [PCB Files](/Build_Files/PCB_Build_Files/) contain the Gerber files needed to order the PCBs, and instructions on how to order them can be found in the [Maker Guide](/Documentation/OpenAT_Switch_Latch_Maker_Guide.pdf)
 
 ### 4. Print the 3D Printable components
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
+All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 5. Assemble the OpenAT-Switch-Latch
 
-Reference the [Assembly Guide](/Documentation/OpenAT_Switch_Latch_Assembly_Guide.pdf) for the tools and steps required to build each portion.
+Reference the [Maker Guide](/Documentation/OpenAT_Switch_Latch_Maker_Guide.pdf) for the tools and steps required to build each portion.
+
+## How to improve this Device
+As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
 
 ## Files
 
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [OpenAT_Switch_Latch_Design_Rationale](/Documentation/OpenAT_Switch_Latch_Design_Rationale.pdf)     |
-| Maker Checklist      | 1.0     | [OpenAT_Switch_Latch_Maker_Checklist](/Documentation/OpenAT_Switch_Latch_Maker_Checklist.pdf)     |
-| Bill of Materials    | 1.2.1    | [OpenAT_Switch_Latch_Bill_of_Materials](/Documentation/OpenAT_Switch_Latch_BOM.csv)     |
-| 3D Printing Guide    | 1.0     | [OpenAT_Switch_Latch_3D_Printing_Guide](/Documentation/OpenAT_Switch_Latch_3D_Printing_Guide.pdf)     |
-| Assembly Guide       | 1.2.1     | [OpenAT_Switch_Latch_Assembly_Guide](/Documentation/OpenAT_Switch_Latch_Assembly_Guide.pdf)     |
-| User Guide           | 1.0     | [OpenAT_Switch_Latch_User_Guide](/Documentation/OpenAT_Switch_Latch_User_Guide.pdf)    |
+| Design Rationale     | 2.0     | [OpenAT_Switch_Latch_Design_Rationale](/Documentation/OpenAT_Switch_Latch_Design_Rationale.pdf)     |
+| Maker Guide          | 2.0     | [OpenAT_Switch_Latch_Maker_Guide](/Documentation/OpenAT_Switch_Latch_Guide.pdf)     |
+| Bill of Materials    | 2.0     | [OpenAT_Switch_Latch_Bill_of_Materials](/Documentation/OpenAT_Switch_Latch_BOM.csv)     |
+| User Guide           | 2.0     | [OpenAT_Switch_Latch_User_Guide](/Documentation/OpenAT_Switch_Latch_User_Guide.pdf)    |
+| Changelog            | 2.0     | [Changelog](CHANGES.txt)     |
 
 ### Design Files
 
@@ -88,7 +91,7 @@ Reference the [Assembly Guide](/Documentation/OpenAT_Switch_Latch_Assembly_Guide
 
 
 ## License
-Copyright (c) 2023-2024 Neil Squire Society.
+Copyright (c) 2026 Neil Squire.
 
 This repository describes Open Hardware:
  - Everything needed or used to design, make, test, or prepare the OpenAT Switch Latch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
@@ -103,8 +106,10 @@ Source Location: https://github.com/makersmakingchange/OpenAT-Switch-Latch
 ## Contributors
  
  - Derrick Andrews, Neil Squire Society. Concept generation, circuit design, testing, documentation.
- - Milad Hajihassan, Neil Squire Society. PCB Layout.
- - Jake Mclvor, Neil Squire Society. Enclosure design, documentation. 
+ - Milad Hajihassan, Neil Squire Society. PCB Layout, documentation.
+ - Jake Mclvor, Neil Squire Society. Enclosure design, PCB Layout, documentation.
+ - Josie Versloot, Neil Squire Society. Documentation.
+ - Tyler Fentie, Neil Squire Society. Documentation.
 
 
 ---
