@@ -1,4 +1,28 @@
-OpenAT Switch Latch Changelog
+Version 2.1.0 | 2026-Nov-23
+ - Updated PCB
+	- Renumbered pads for MOSFET, re-oriented MOSFETs, and re-wired corresponding traces
+	- Power switch now grounded when in off position, to quickly turn off MOSFET
+ - Updated Maker Guide
+	- Updated Maker Guide photos to match new PCB (overall PCB and MOSFET photos)
+	
+
+Version 2.0.0 | 2026-Sep-23
+ - Updated PCB
+ 	- Add IC socket for CD74HC73E JK Flip Flop IC
+ 	- Replace resistors with larger footprint
+ 	- Add top ground plane
+ 	- Adjust traces
+ 	- Replaced obsolete MOSFET with IPD135N03LGATMA1
+ - Updated Enclosure Top
+ 	- Add unsupported hole feature to battery screw connection
+ 	- Tweaked 
+ - Updated Enclosure Bottom
+ 	- Increased screw hole size to accommodate larger screwdriver
+ 	- Modified profile to improve printability
+ - Updated documentation 
+	- Maker Guide, User Guide, Quick Start Guide, BOM
+		- All updated for the new v2.0 design, and to match latest documentation style
+
 
 Version 1.1.2 | 2024-Oct-10
  - Added LED image to improve chance that LED is installed with correct polarity and with LED spacer
@@ -10,7 +34,7 @@ Version 1.1 | 2023-Nov-23
 	- Add 6th screw to BOM (1 for PCB, 4 for Enclosure, 1 for Battery Cover)
 
 Version 1.01 | 2023-Nov-17
-	- Enclosure_Top
+	- Updated Enclosure Top
 		- Fixed ordering of On-Off
 		- Added small chamfer to bosses and screw holes
 	- Cleaned up repository
